@@ -1,5 +1,5 @@
-#POFP
+# POFP
 The POFP.py contains python functions to generate photo-oriented fingerprints.
-##Dependencies
+## Dependencies
 Numpy
 RDkit
