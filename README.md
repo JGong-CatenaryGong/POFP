@@ -1,9 +1,10 @@
 # POFP
 The POFP.py contains python functions to generate photo-oriented fingerprints.
 ## Dependencies
-Numpy
-RDkit
-### `GenSpecFP` Function
+- Numpy
+- RDkit
+
+## `GenSpecFP` Function
 
 #### Description
 The `GenSpecFP` function generates a specific fingerprint for a given molecule. The fingerprint is a bit vector based on substructure matching within the molecule and can be used for molecular similarity assessment in cheminformatics and drug design.
